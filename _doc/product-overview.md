@@ -71,6 +71,4 @@ Clean, confident, signal-focused. Final branding (name, palette, logo) **to conf
 
 - Final app name.
 - Which change category matters most (pricing vs product vs marketing) and the day-one focus.
-- Primary user/persona and team size.
-- Number of competitors typically tracked.
-- Pricing/business model for the app itself.
+- Team size (how many internal users) and number of competitors typically tracked.
