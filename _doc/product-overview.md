@@ -23,11 +23,14 @@ browser tabs and memory — so changes are caught late or missed entirely.
 
 ## Who it's for
 
-- **Primary: the business owner / founder** who needs to stay ahead of competitors but has
-  no time to check rivals daily.
-- **Marketing** — tracking competitors' campaigns, messaging, and promotions.
-- **Sales** — needing to know rival pricing and positioning before deals.
-- (Exact primary persona **to confirm** during scoping.)
+An **internal tool for QuantumByte's own team** — the company's in-house competitive-
+intelligence cockpit, watching rival AI app-building platforms. This is **not a
+customer-facing product**; it's used in-house.
+
+- **Primary: product & growth** at QuantumByte — staying ahead of competing platforms'
+  pricing, features, and positioning.
+- **Marketing** — tracking rivals' campaigns, messaging, and promotions.
+- **Leadership** — wanting the headline on competitive moves without daily manual checks.
 
 ## What it monitors
 
